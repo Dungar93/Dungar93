@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/0ZLh7gC.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Banner"/>
 </p>
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dungar+Soni+👋;Full+Stack+Developer+%7C+AI+Enthusiast;CSE+Student+@+IIT+Jodhpur;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Dungar+Soni+👋;Full+Stack+Developer+%7C+AI+Enthusiast;CSE+Student+@+IIT+Jodhpur;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 ---
@@ -15,8 +15,7 @@
 - 🌱 Learning: **Next.js, Tailwind, Prisma, Gemini AI, Shadcn UI**
 - 🧠 Strong in **C++, Python, DSA, Full Stack Web Dev**
 - 🚀 Interested in **AI, Web Development, and Data Science**
-- 🎓 3rd-year **CSE student at IIT Jodhpur**
-- ⚡ Fun Fact: I love building projects that solve real problems
+- 🎓 2nd-year **CSE student at IIT Jodhpur**
 - 📫 Contact: **b23cs1105@iitj.ac.in**
 
 ---
@@ -45,17 +44,10 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Shortest Path Finder](https://github.com/Dungar93/ShortestPathFinder)  
-Graph algorithms | Inspired by Google Maps
-
-### 🔹 [Quantro Finance App](https://github.com/Dungar93/Quantro-Finance-App)  
-Next.js | Tailwind | Prisma | Financial Management
-
-### 🔹 [Food Delivery Fullstack Project](https://github.com/Dungar93/food-delivery-fullstack-project)  
-MERN stack | Cart | User Auth | Restaurant listings
-
-### 🔹 Fruits & Vegetables Recognition  
-Deep learning + Image Classification (Jupyter Notebook)
+- 🔹 [Shortest Path Finder](https://github.com/Dungar93/ShortestPathFinder)  
+- 🔹 [Quantro Finance App](https://github.com/Dungar93/Quantro-Finance-App)  
+- 🔹 [Food Delivery Fullstack Project](https://github.com/Dungar93/food-delivery-fullstack-project)  
+- 🔹 Fruits & Vegetables Recognition (Jupyter Notebook)
 
 ---
 
@@ -71,23 +63,15 @@ Deep learning + Image Classification (Jupyter Notebook)
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dungar93&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dungar93&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph Snake Animation
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Dungar93/Dungar93/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dungar93&theme=react-dark" />
+  <img src="https://raw.githubusercontent.com/Dungar93/Dungar93/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -96,11 +80,11 @@ Deep learning + Image Classification (Jupyter Notebook)
 
 <p>
 <a href="https://www.linkedin.com/in/dungarmal-soni-69b8062ab/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
 </a>
 
 <a href="mailto:b23cs1105@iitj.ac.in">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40">
 </a>
 </p>
 
