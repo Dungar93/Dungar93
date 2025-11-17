@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Dungar+Soni+👋;Full+Stack+Developer;CSE+Student+@+IIT+Jodhpur;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Dungar+Soni+👋;Full+Stack+Developer;CSE+Student+@+IIT+Jodhpur;Welcome+to+my+GitHub!" />
 </h1>
-
-
- 
----
 
 ## 👨‍💻 About Me
 - 🌱 Learning: **Next.js, Tailwind, Prisma, Gemini AI, Shadcn UI**
@@ -22,24 +18,24 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dungar93&theme=tokyonight&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungar93&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dungar93&theme=tokyonight&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungar93&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dungar93&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dungar93&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 Contribution Snake Animation  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dungar93/Dungar93/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dungar93/Dungar93/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -47,11 +43,11 @@
 ## 📬 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/dungarmal-soni-69b8062ab/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
 
 <a href="mailto:b23cs1105@iitj.ac.in">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45">
 </a>
 </p>
 
