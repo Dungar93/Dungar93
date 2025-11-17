@@ -1,12 +1,10 @@
 name: Generate Snake
 
-# Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:        # Allows you to run it manually
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-# Workflow permissions
 permissions:
   contents: write
 
@@ -15,12 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1 — Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2 — Generate snake SVGs
-      - name: Generate snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Dungar93
@@ -28,11 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      # Step 3 — Push to output branch
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
