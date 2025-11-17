@@ -8,7 +8,7 @@
 - 🌱 Learning: **Next.js, Tailwind, Prisma, Gemini AI, Shadcn UI**
 - 🧠 Strong in **C++, Python, DSA, Full Stack Web Dev**
 - 🚀 Interested in **AI, Web Development, and Data Science**
-- 🎓 2nd-year **CSE student at IIT Jodhpur**
+- 🎓 3rd-year **CSE student at IIT Jodhpur**
 - 📫 Contact: **b23cs1105@iitj.ac.in**
 
 ---
