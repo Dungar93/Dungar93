@@ -1,16 +1,109 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/0ZLh7gC.png" width="100%" alt="Banner"/>
+</p>
 
-<!--
-**Dungar93/Dungar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dungar+Soni+👋;Full+Stack+Developer+%7C+AI+Enthusiast;CSE+Student+@+IIT+Jodhpur;Welcome+to+my+GitHub+Profile!" />
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Learning: **Next.js, Tailwind, Prisma, Gemini AI, Shadcn UI**
+- 🧠 Strong in **C++, Python, DSA, Full Stack Web Dev**
+- 🚀 Interested in **AI, Web Development, and Data Science**
+- 🎓 3rd-year **CSE student at IIT Jodhpur**
+- ⚡ Fun Fact: I love building projects that solve real problems
+- 📫 Contact: **b23cs1105@iitj.ac.in**
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Shortest Path Finder](https://github.com/Dungar93/ShortestPathFinder)  
+Graph algorithms | Inspired by Google Maps
+
+### 🔹 [Quantro Finance App](https://github.com/Dungar93/Quantro-Finance-App)  
+Next.js | Tailwind | Prisma | Financial Management
+
+### 🔹 [Food Delivery Fullstack Project](https://github.com/Dungar93/food-delivery-fullstack-project)  
+MERN stack | Cart | User Auth | Restaurant listings
+
+### 🔹 Fruits & Vegetables Recognition  
+Deep learning + Image Classification (Jupyter Notebook)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dungar93&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungar93&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dungar93&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Graph Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Dungar93/Dungar93/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dungar93&theme=react-dark" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/dungarmal-soni-69b8062ab/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn">
+</a>
+
+<a href="mailto:b23cs1105@iitj.ac.in">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
+</a>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub! ⭐</h3>
