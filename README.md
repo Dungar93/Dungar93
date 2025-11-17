@@ -1,12 +1,6 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Dungar+Soni+👋;Full+Stack+Developer;CSE+Student+@+IIT+Jodhpur;Welcome+to+my+GitHub!" />
 </h1>
-
----
-
-
-
 
 ---
 
@@ -35,7 +29,6 @@
 ---
 
 ## 🏆 GitHub Trophies  
-> ⭐ 100% Working link  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dungar93&theme=tokyonight&no-frame=true" />
 </p>
@@ -43,7 +36,6 @@
 ---
 
 ## 🐍 Contribution Snake Animation  
-> ⭐ Will work AFTER you create the workflow file  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dungar93/Dungar93/output/github-contribution-grid-snake-dark.svg" />
 </p>
