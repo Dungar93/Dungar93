@@ -4,6 +4,9 @@
 
 ---
 
+
+---
+
 ## 👨‍💻 About Me
 - 🌱 Learning: **Next.js, Tailwind, Prisma, Gemini AI, Shadcn UI**
 - 🧠 Strong in **C++, Python, DSA, Full Stack Web Dev**
