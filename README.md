@@ -47,18 +47,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dungar93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungar93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dungar93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dungar93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dungar93&theme=tokyonight&hide_border=true" alt="dungar93" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dungar93&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+</div>
 
 ---
 
@@ -72,25 +72,38 @@
 
 ## 💼 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Dungar93/Quantro-Finance-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dungar93&repo=Quantro-Finance-App&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dungar93/food-delivery-fullstack-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dungar93&repo=food-delivery-fullstack-project&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Quantro Finance App</h3>
+      <div align="center">
+        <a href="https://github.com/Dungar93/Quantro-Finance-App" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+        </a>
+        <p><strong>Next.js • Prisma • AI • Tailwind CSS</strong></p>
+        <p>AI-powered financial management platform for tracking expenses and transactions with real-time insights.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Food Delivery App</h3>
+      <div align="center">
+        <a href="https://github.com/Dungar93/food-delivery-fullstack-project" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+        </a>
+        <p><strong>MERN Stack • Authentication • Cart</strong></p>
+        <p>Full-stack food delivery application with user authentication, restaurant listings, and order tracking.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
 ---
 
-## 📈 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
----
+
 
 ## 🐍 Contribution Snake Animation
 
