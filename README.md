@@ -47,18 +47,22 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dungar93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dungar93&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Dungar93">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dungar93&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungar93&theme=tokyonight&layout=compact&hide_border=true" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dungar93&theme=tokyonight&hide_border=true" alt="dungar93" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Dungar93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dungar93&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dungar93&theme=tokyonight" alt="Contribution Graph" />
+</p>
 
 ---
 
