@@ -22,9 +22,10 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dungar93&theme=tokyonight&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungar93&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dungar93&theme=tokyonight&show_icons=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dungar93&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
