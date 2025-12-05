@@ -14,8 +14,8 @@
 ---
 
 ## 🚀 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,tailwind,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,tailwind,mongodb" />
 </p>
 
 ---
@@ -25,7 +25,6 @@
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dungar93&theme=tokyonight&show_icons=true&rank_icon=github" />
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dungar93&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
@@ -38,19 +37,19 @@
 
 ## 🐍 Contribution Snake Animation  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dungar93/Dungar93/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dungar93/Dungar93/output/github-contribution-grid-snake-dark.svg?sanitize=true" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/dungarmal-soni-69b8062ab/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50">
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:b23cs1105@iitj.ac.in">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50">
 </a>
 </p>
 
