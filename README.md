@@ -74,14 +74,14 @@
 
 <p align="center">
   <a href="https://github.com/Dungar93/Quantro-Finance-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dungar93&repo=project1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dungar93&repo=Quantro-Finance-App&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Dungar93/food-delivery-fullstack-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dungar93&repo=project2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dungar93&repo=food-delivery-fullstack-project&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> Replace `project1` and `project2` with your actual repository names
+
 
 ---
 
