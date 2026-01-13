@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Dungar%20Soni%20👋!&fontAlign=50&fontAlignY=40&color=gradient)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Dungar%20Soni%20!&fontAlign=50&fontAlignY=40&color=gradient)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSE+Student+@+IIT+Jodhpur;AI+%26+Web+Enthusiast;Building+Innovative+Solutions" />
