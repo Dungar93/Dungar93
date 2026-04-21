@@ -393,39 +393,6 @@ const dungar: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       JOURNEY TIMELINE                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/jpVnC65DsbvuHGCVII/giphy.gif" width="28"> &nbsp;The Journey So Far
-
-<div align="center">
-
-```mermaid
-timeline
-    title Dungar's Developer Evolution
-    2020 : First "Hello World" in C++
-         : Fell in love with algorithms
-    2021 : DSA grind begins
-         : Started competitive programming
-    2022 : Web dev awakening
-         : Built first full-stack app
-    2023 : Cracked IIT-JEE → IIT Jodhpur
-         : Joined CSE program
-    2024 : Full-stack mastery
-         : MERN + Next.js deep dive
-         : Started building SaaS projects
-    2025 : AI integration era
-         : LLMs, RAG, Agentic AI
-         : Production-grade systems
-    2026 : Building the future
-         : Ship products that matter
-         : Scale to millions
-```
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                      DEV PHILOSOPHY                                  -->
